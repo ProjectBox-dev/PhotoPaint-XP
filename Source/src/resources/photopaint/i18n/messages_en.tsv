@@ -1,0 +1,230 @@
+# Russian source text	English translation
+Слои	Layers
+История	History
+Цвет	Color
+Файл	File
+Новый...	New...
+Открыть...	Open...
+Сохранить	Save
+Сохранить как...	Save As...
+Выход	Exit
+Правка	Edit
+Отменить	Undo
+Повторить	Redo
+Вырезать	Cut
+Копировать	Copy
+Вставить	Paste
+Удалить	Delete
+Выделить всё	Select All
+Снять выделение	Deselect
+Изображение	Image
+Размер изображения...	Image Size...
+Повернуть на 90° по часовой	Rotate 90° Clockwise
+Повернуть на 90° против часовой	Rotate 90° Counterclockwise
+Повернуть на 180°	Rotate 180°
+Отразить по горизонтали	Flip Horizontally
+Отразить по вертикали	Flip Vertically
+Обрезать по выделению	Crop to Selection
+Свести изображение	Flatten Image
+Слой	Layer
+Новый слой	New Layer
+Импортировать изображение...	Import Image...
+Дублировать слой	Duplicate Layer
+Удалить слой	Delete Layer
+Объединить с нижним	Merge Down
+Поднять слой	Move Layer Up
+Опустить слой	Move Layer Down
+Коррекция	Adjustments
+Яркость / контраст...	Brightness / Contrast...
+Оттенок / насыщенность...	Hue / Saturation...
+Оттенки серого	Grayscale
+Инвертировать	Invert
+Инверсия	Inversion
+Сепия	Sepia
+Фильтр	Filter
+Размытие...	Blur...
+Размытие	Blur
+Радиус:	Radius:
+Резкость...	Sharpen...
+Резкость	Sharpen
+Сила:	Amount:
+Пикселизация...	Pixelate...
+Пикселизация	Pixelate
+Блок:	Block:
+Шум...	Noise...
+Шум	Noise
+Тиснение	Emboss
+Выделение краёв	Edge Detection
+Вид	View
+Увеличить	Zoom In
+Уменьшить	Zoom Out
+Реальный размер	Actual Size
+По размеру окна	Fit to Window
+Показать сетку	Show Grid
+Справка	Help
+О программе PhotoPaint XP	About PhotoPaint XP
+Открыт: 	Opened: 
+Новый документ 	New document 
+Безымянный	Untitled
+Отменить: 	Undo: 
+Повторить: 	Redo: 
+Фон	Background
+Новый документ	New Document
+Открыт проект: 	Project opened: 
+Открыть изображение	Open Image
+Безымянный.	Untitled.
+Сохранено: 	Saved: 
+Сохранить изображение	Save Image
+Документ «	Document “
+» содержит несохранённые изменения.<br>	” has unsaved changes.<br>
+Сохранить его перед продолжением?	Save it before continuing?
+ОК	OK
+Скопировано: 	Copied: 
+Буфер обмена пуст	Clipboard is empty
+Вставка	Paste
+Импорт	Import
+Импорт изображения	Import Image
+Импортировано в новый слой: 	Imported into a new layer: 
+Импортировать изображение	Import Image
+Удаление	Delete
+Очистка слоя	Clear Layer
+Размер изображения	Image Size
+Поворот	Rotate
+Поворот 180°	Rotate 180°
+Отражение	Flip
+Обрезка	Crop
+Сведение слоёв	Flatten Layers
+Объединить слои	Merge Layers
+ копия	 copy
+Кисть	Brush
+Мягкая кисть. Размер и жёсткость настраиваются сверху.	Soft brush. Size and hardness are set in the options bar.
+Эллипс	Ellipse
+Эллипс. Shift — круг, режим заливки сверху.	Ellipse. Shift — circle, fill mode in the options bar.
+Ластик	Eraser
+Стирает пиксели активного слоя до прозрачности.	Erases the active layer's pixels to transparency.
+Заливка	Fill
+Заливает область основным цветом. Допуск настраивается сверху.	Fills an area with the foreground color. Tolerance is set in the options bar.
+Градиент	Gradient
+Линейный или радиальный градиент от основного цвета.	Linear or radial gradient from the foreground color.
+Рука	Hand
+Перетаскивание для прокрутки холста.	Drag to scroll the canvas.
+Линия	Line
+Прямая линия. Shift — под углом 45°.	Straight line. Shift — 45° angles.
+Перемещение	Move
+Двигает содержимое слоя или выделенной области.	Moves the layer or selection contents.
+Карандаш	Pencil
+Жёсткий пиксельный карандаш.	Hard pixel pencil.
+Пипетка	Eyedropper
+Берёт цвет с изображения. Alt или правая кнопка — фоновый цвет.	Picks a color from the image. Alt or right-click — background color.
+Прямоугольник	Rectangle
+Прямоугольник. Shift — квадрат, режим заливки сверху.	Rectangle. Shift — square, fill mode in the options bar.
+Выделение	Select
+Прямоугольное выделение. Shift — квадрат, клик без перетаскивания снимает выделение.	Rectangular selection. Shift — square, click without dragging clears the selection.
+Текст	Text
+Добавляет текст на активный слой. Шрифт и размер задаются в окне.	Adds text to the active layer. Font and size are set in the dialog.
+Масштаб	Zoom
+Щелчок — увеличить, Alt или правая кнопка — уменьшить.	Click — zoom in, Alt or right-click — zoom out.
+Основной	Foreground
+Поменять цвета	Swap Colors
+Шагов: 	Steps: 
+   Память: 	   Memory: 
+ МБ	 MB
+Непрозр.:	Opacity:
+Непрозрачность слоя	Layer Opacity
+Видимость слоя	Layer Visibility
+Переименовать слой	Rename Layer
+Имя слоя:	Layer name:
+Переименование слоя	Rename Layer
+Цвет:	Color:
+Размер:	Size:
+Жёсткость:	Hardness:
+Допуск:	Tolerance:
+Линейный	Linear
+Радиальный	Radial
+Тип:	Type:
+Прозрачный фон	Transparent
+Толщина:	Width:
+Контур	Outline
+Контур + заливка	Outline + Fill
+Режим:	Mode:
+Сглаживание	Anti-aliasing
+Shift — квадрат. Клик без перетаскивания снимает выделение.	Shift — square. Click without dragging clears the selection.
+Перетаскивайте слой или выделенную область. Shift — по одной оси.	Drag the layer or selection. Shift — constrain to one axis.
+Щёлкните по холсту и введите текст. Шрифт, размер и стиль — в окне текста.	Click the canvas and type. Font, size and style are set in the text dialog.
+По окну	Fit
+Alt — уменьшить	Alt — zoom out
+Перетаскивайте для прокрутки. Ctrl + колесо — масштаб.	Drag to scroll. Ctrl + wheel — zoom.
+Щелчок — основной цвет, Alt или правая кнопка — фоновый.	Click — foreground color, Alt or right-click — background.
+Палитра:	Palette:
+  ЛКМ — основной цвет, ПКМ — фоновый	  LMB — foreground, RMB — background
+Выделение: 	Selection: 
+Основной и фоновый цвет	Foreground and background color
+Поменять цвета (X)	Swap Colors (X)
+Чёрный и белый	Black and White
+Версия 1.0  ·  Windows XP Edition	Version 1.0  ·  Windows XP Edition
+Растровый графический редактор для Windows XP.	Raster graphics editor for Windows XP.
+Создатель: ProjectBox	Created by: ProjectBox
+Открыть профиль ProjectBox на GitHub	Open the ProjectBox profile on GitHub
+Оттенок / насыщенность	Hue / Saturation
+Яркость / контраст	Brightness / Contrast
+Сдвиг оттенка:	Hue shift:
+Яркость:	Brightness:
+Насыщенность:	Saturation:
+Контраст:	Contrast:
+Предпросмотр на холсте. ОК — применить.	Preview on canvas. OK — apply.
+Отмена	Cancel
+Оттенок/насыщенность	Hue/Saturation
+Яркость/контраст	Brightness/Contrast
+Выбор цвета	Choose Color
+Не сохранять	Don't Save
+Новое изображение	New Image
+Белый фон	White
+Ширина:	Width:
+Высота:	Height:
+Фон:	Background:
+Размер должен быть от 1 до 8000 пикселей.	Size must be between 1 and 8000 pixels.
+Введите целые числа.	Enter whole numbers.
+Сохранять пропорции	Keep proportions
+Текущий размер: 	Current size: 
+Допустимый размер: 1–8000 px.	Allowed size: 1–8000 px.
+Ж	B
+Полужирный	Bold
+К	I
+Курсив	Italic
+Шрифт:	Font:
+(основной цвет)	(foreground color)
+    Enter — новая строка	    Enter — new line
+Открыть	Open
+Сохранить как	Save As
+Папка:	Folder:
+На уровень вверх	Up One Level
+Мои рисунки	My Pictures
+Рабочий стол	Desktop
+Документы	Documents
+Мой компьютер	My Computer
+Все поддерживаемые	All Supported
+Все файлы	All Files
+Имя файла:	File name:
+Тип файлов:	File type:
+Укажите имя файла.	Enter a file name.
+Выберите диск и папку.	Choose a drive and folder.
+Файл не найден.	File not found.
+Подтверждение	Confirm
+<html>Файл <b>	<html>File <b>
+</b> уже существует.<br>Заменить его?</html>	</b> already exists.<br>Replace it?</html>
+Заменить	Replace
+Формат файла не поддерживается	File format not supported
+Неизвестный формат: 	Unknown format: 
+Не удалось записать файл в формате 	Could not write file in format 
+Не удалось записать слой 	Could not write layer 
+Это не файл проекта PhotoPaint XP	This is not a PhotoPaint XP project file
+Неподдерживаемая версия проекта: 	Unsupported project version: 
+Слой 	Layer 
+В проекте нет слоёв	The project has no layers
+Настройки...	Settings...
+Настройки	Settings
+Язык интерфейса:	Interface language:
+Изменения применяются сразу.	Changes apply immediately.
+Лассо	Lasso
+Выделение произвольной формы. Обведите область мышью, отпустите кнопку — контур замкнётся.	Free-form selection. Drag around an area and release to close the outline.
+Обведите мышью область произвольной формы. Отпустите кнопку — контур замкнётся.	Drag around a free-form area. Release the button to close the outline.
